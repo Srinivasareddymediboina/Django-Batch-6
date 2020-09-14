@@ -3,7 +3,7 @@ ____
 
 [Click Here for syllabus](https://drive.google.com/file/d/1OnBUWHxKIa0ixTU8uKrWTGCE7HB3PbGl/view)
 
-<p style='color:red'> Video Links will expire in 2 days.</p>
+<font style='color:red'> Video Links will expire in 2 days.</font>
 
 ### Day1 Objectives(14-09-20):
 
