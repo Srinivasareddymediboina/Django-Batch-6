@@ -1,0 +1,52 @@
+Today Objectives
+----------------
+1.Installation of Python 3.6
+
+2.Python OOP'S
+ ->Class
+ ->Object
+ ->Contructors
+ ->Inheritance
+
+def FunName():
+    .
+    .
+    .
+    .
+FunName()
+
+Class:
+--------
+-> It is a collection of variables and methods
+
+Methods:if function is existed inside the class, then we will call that is a method
+
+Synatx:
+
+class ClassName:
+	list of variables
+	list of methods
+
+Object:
+-------
+-> It is a instance of a class
+
+syntax:
+
+obj_name=Class_name
+
+Constructors:
+-------------
+
+def __init__(self):  #Constructor
+def __init__(name,self,roll):
+
+
+
+
+
+
+
+
+
+
