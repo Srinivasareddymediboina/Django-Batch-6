@@ -1,9 +1,9 @@
-### Web Development Using Django-Batch5
+### Web Development Using Django-Batch 6
 ____
 
 [Click Here for syllabus](https://drive.google.com/file/d/1OnBUWHxKIa0ixTU8uKrWTGCE7HB3PbGl/view)
 
-### <p style='color:red'>Video Links will expire in 2 days.</p>
+<p style='color:red'> Video Links will expire in 2 days.</p>
 
 ### Day1 Objectives(14-09-20):
 
