@@ -1,0 +1,47 @@
+Today Objectives
+-----------------
+1. Inheritance
+2. Modules
+3. Packages
+
+Inheritance
+---------------
+->We are trying to inheriting something from parent class to child class
+
+format: class ChildClass(ParentClass):
+
+We have diff types of inheitance
+
+1.Single Line inheritance
+-->There is only one parent class and one child class
+
+2.Multilevel Inheritance
+-->One or More Parents and one or more childs
+
+3.Multiple Inheritance
+-->More then one Parent and one child
+
+4.Hybrid Inheritance
+-->Hybrid Inhritance consisting of multiple types of inhritance
+
+Modules
+--------
+->Module is a .py file
+->It is a collection of functions or classes
+->for accesing modules we are using import keyword
+->For accessing we have few diff types
+	import module_name
+
+Package(Folder)
+---------------
+-> It is a Collection of modules
+	from module import funname
+	from module import *
+
+Django Installation:
+--------------------
+	pip install django
+
+to get current version of django
+	
+	django-admin --version
