@@ -1,11 +1,11 @@
 #Single Line Inheritance
 class ClassA:
-    global a,b
-    a,b=10,25
+    a,b=11,14
+    
     def display():
         return "I am from ClassA"
     def add():
-        return a+b
+        return ClassA.a+ClassA.b
     
 class ClassB(ClassA):
     a,b,c=10,20,30
@@ -13,6 +13,7 @@ class ClassB(ClassA):
         return "I am form ClassB"
     def sub():
         return ClassB.a-ClassB.c
+
     
     
     

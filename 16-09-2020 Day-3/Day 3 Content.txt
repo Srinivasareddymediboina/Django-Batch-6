@@ -1,0 +1,79 @@
+	pip install django
+	django-admin --version
+
+Today Objectives
+------------------
+1. Introduction of Django
+2. MVC and MVT
+3. Project Creation
+
+Django:
+-------
+Django is a free and open source freamwork in python prog lang
+It includes all necessary freatures by defalut
+
+Framwork:
+----------
+framwork is a collection of modules and packages.
+
+Frontend:Html,CSS,bootstrap,ajax,
+
+Backend:Python,Java,C++,C,php..etc,
+
+Middleware:Database-->sqlite,mysql,mangodb,oracle,postgresql,
+
+ MVC:
+-----
+Model View Controller
+
+Model:Db Connections,
+View:It can handle all html pages,
+Controller:Main Logic,
+
+ MVT:
+-----
+Model View Template
+
+Model:Db Connections
+View:Main Logic
+Template:in this template we will store all .html files
+
+Django Project Creation:
+------------------------
+-->We have to choose specific location
+-->from that location open cmd 
+-->for creating the django project
+
+	'django-admin startproject ProjectName'
+
+Folder: this folder related to admin part
+__init__.py:this file tell to python consider, this folder also like a python file.
+asgi.py and wsgi.py: we can use this files for hosting a project
+settings.py: in this file we will make all project settings
+urls.py:we will map all our project urls
+
+
+manage.py: This file will act as a interface b/w django project and cmmand prompt
+-->Using this manage.py file i can run the server
+-->i can able to open shells
+-->for creating the user application we can use this file
+
+	'python manage.py runserver'
+	'python manage.py runserver 9999'
+to break the server: ctrl+c
+
+App Creation:
+-------------
+for creating the app we have to use the follow cmd
+	
+	'python manage.py startapp appName'
+
+Migrations:it will handle all db connections
+admin.py: By using the file we will give permissions to admin to access our models 
+app.py:here we will see app info
+models.py: we will write all db connections
+test.py: we are using this file for testing only
+views.py:it is working like a controller for controlling the all navigations
+
+After creating the app we have to register our app in settings.py file
+
