@@ -34,3 +34,11 @@ ____
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/2439b58b47ee3ea4e2c200c06b9499b51ad80bf8290312940ffffb759f2b6281)
 ____
+
+### Day3 Objectives(16-09-20):
+- Intoduction to Django
+- Project Creation
+- App Creation
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/25c83cdcc5e8ad6f46d49e8367989d063ce08337644fc5834b0339b793b9ce4a)
+
