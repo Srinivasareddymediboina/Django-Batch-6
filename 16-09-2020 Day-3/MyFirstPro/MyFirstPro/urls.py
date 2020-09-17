@@ -15,8 +15,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from SecondApp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('hello/',views.hello,name='hello'),
+    path('hi/',views.hi,name='hi'),
+    path('names/<str:s>/',views.names,name='names'),
+    path('rollno/<int:r>/',views.rollno,name='rollno'),
+    path('task/<str:name>/<int:roll>/',views.task,name='task'),
+    path('home/',views.home,name='home'),
     
 ]

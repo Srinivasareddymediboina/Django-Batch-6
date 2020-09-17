@@ -1,0 +1,34 @@
+Today Objectives
+----------------
+1.Url Mapping
+2.Dynamic Url Mapping
+3.HttpResquest and HttResponse
+
+HtppRequest and HttpResponse
+-----------------------------
+HttpRequest:
+
+-> For handling this request we have two diff methods
+	GET and POST
+->GET:if user sends request from url that means the request type is GET
+->POST:if the request is coming from html form then the request type is POST
+
+HttpResponse:
+
+->Based on user request it will give response
+
+
+Task
+-----
+Hello My Name is --------- and my rollno is ----------
+
+Templates
+----------
+->We have to create templates folder inside app folder
+
+->Inside templates folder again we need to create one more folder with the name of app
+
+-> For accessing the .html files we have to use render function
+ render(request,'filename')
+
+
