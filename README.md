@@ -40,5 +40,5 @@ ____
 - Project Creation
 - App Creation
 
-### Video Link [Click Here]
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/25c83cdcc5e8ad6f46d49e8367989d063ce08337644fc5834b0339b793b9ce4a)
 
