@@ -22,7 +22,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
   - Object
   - Contructors
 
-### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/64d903e7a6c4ae897e5360a16bef9c2d850404841d630602a8caf69f6f1c476f)
+### Video Link[ Click Here]
 ____
 ### Day2 Objectives(15-09-20):
 
@@ -32,7 +32,7 @@ ____
 - Installation of Django
 - Installation of Sublime
 
-### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/2439b58b47ee3ea4e2c200c06b9499b51ad80bf8290312940ffffb759f2b6281)
+### Video Link [Click Here]
 ____
 
 ### Day3 Objectives(16-09-20):
@@ -48,3 +48,13 @@ ____
 - Dynamic URLs
 - Templates
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/d9e01d1e8dd702496769e23b795109e8523425865db1bffa30ed81179ccb2526)
+____
+
+### Day 5 Objectives(18-09-20):
+- Introduction to HTML
+  - Html basic tags
+  - Lists
+  - Tables
+  - Forms
+### Video Link [Click Here]
+
