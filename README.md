@@ -41,4 +41,10 @@ ____
 - App Creation
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/25c83cdcc5e8ad6f46d49e8367989d063ce08337644fc5834b0339b793b9ce4a)
-
+____
+### Day 4 Objectives(17-09-20):
+- URL Mapping
+- Http Request and Http Response
+- Dynamic URLs
+- Templates
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/d9e01d1e8dd702496769e23b795109e8523425865db1bffa30ed81179ccb2526)
