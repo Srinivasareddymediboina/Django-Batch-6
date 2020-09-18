@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+	<title>Home Page</title>
+</head>
+<body>
+<img src="/static/images/Banner.png" height="10%" width="50%">
+
+<center>
+<h1>Django Workshop</h1>
+</center>
+<img src="/static/images/ceo.jpg">
+
+<h2>Django Workshop by APSSDC</h2>
+<h3>Django Workshop by APSSDC</h3>
+<p>
+	My name is Srinivas <br>I am working in APSSDC
+</p>
+<h4>List Examples</h4>
+<ul>
+	<li>JAVA</li>
+	<li>PYTHON</li>
+	<li>PHP</li>
+</ul>
+<ol>
+	<li>Django</li>
+	<li>Flask</li>
+	<li>Bottle</li>
+</ol>
+<dl>
+	<dt>Languages</dt>
+	<dd>Python,Java,C++,C</dd>
+	<dt>FramWorks</dt>
+	<dd>Django,Flask,Web2py</dd>
+</dl>
+
+<a href="{% url 'table' %}">Table Page</a>
+
+
+
+</body>
+</html>
+
