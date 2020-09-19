@@ -69,3 +69,5 @@ ____
 - Types of CSS
   - Inline CSS
   - Internal CSS
+
+### Details [Workshop Students Data](https://docs.google.com/spreadsheets/d/149Ha-Y2H3WbVLmic4LqQ4h044MONjFwH/edit#gid=1228418153)
