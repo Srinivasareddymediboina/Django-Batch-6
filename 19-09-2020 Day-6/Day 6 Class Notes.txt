@@ -1,0 +1,94 @@
+Today Objectives
+----------------
+1.DTL-Django Template Language
+2.Data Rendering from views to html and html to views
+
+-->for printing values we have to use {{ }}
+--> for implementing logics we have to use {% %}
+
+{% if condition %}
+
+{% endif %}
+-------------
+
+{% if condition %}
+
+{% elif condition %}
+
+{% else %}
+
+{% endif %}
+-------------------
+
+-->For looping statements
+
+{% for i in data %}
+
+{% endfor %}
+
+CSS
+-----
+
+seletor  declaration block
+
+h1 {poperty:value}
+
+h1 {color:red}
+
+we have diff types of selectors
+
+1.Element Selector
+2.Id Selector
+3.Class Selector
+4.Universal Selector
+5.Group Selector
+
+We have three ways to insert CSS to HTML pages
+
+1.inline CSS
+2.internal CSS
+3.External CSS
+
+Task 1
+------
+5x1=5
+5x2=10
+5x3=15
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+5x20=100
+
+Task 2
+-------
+Create one Login page
+
+Username
+Password
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

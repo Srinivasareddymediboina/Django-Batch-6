@@ -23,5 +23,8 @@ urlpatterns = [
     path('home/',views.home, name='home'),
     path('table/',views.table, name='table'),
     path('forms/',views.forms,name='forms'),
+    path('names/<str:names>/',views.names,name='names'),
+    path('college/',views.college, name='college'),
+    path('numbers/<int:num>/',views.numbers,name='numbers'),
 
 ]
