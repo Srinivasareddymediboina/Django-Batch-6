@@ -56,5 +56,5 @@ ____
   - Lists
   - Tables
   - Forms
-### Video Link [Click Here]
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/f6a2e96ab7d0b37a7f5e8be45b274c97060988b9a2f1ff22b3e349df54855c4f)
 
