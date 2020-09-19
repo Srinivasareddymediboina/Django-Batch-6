@@ -40,7 +40,7 @@ ____
 - Project Creation
 - App Creation
 
-### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/25c83cdcc5e8ad6f46d49e8367989d063ce08337644fc5834b0339b793b9ce4a)
+### Video Link [Click Here]
 ____
 ### Day 4 Objectives(17-09-20):
 - URL Mapping
@@ -58,3 +58,14 @@ ____
   - Forms
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/f6a2e96ab7d0b37a7f5e8be45b274c97060988b9a2f1ff22b3e349df54855c4f)
 
+____
+### Day 6 Objectives(19-09-2020)
+
+- DTL-(Django Template Language)
+- Data Rendering from Templates to views
+- Views to Templates
+- Introduction of CSS
+  - Selectors in CSS
+- Types of CSS
+  - Inline CSS
+  - Internal CSS
