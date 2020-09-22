@@ -81,3 +81,15 @@ ____
 - Boostrap
 - static file handling
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/0e103e86a0f41264a5186b5d51de1795cffe22e236fb10e063605a4bd7e968ca)
+
+
+
+
+____
+### Day 8 Objectives(22-09-2020)
+
+- Object Relational Mapper(ORM)
+- Migrations
+- Model creation
+- Super user Creation
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5da6a56f6b951f400aba049a68a28b74426ac09f9d4b5bda121cc7bc4dc77cfa)
