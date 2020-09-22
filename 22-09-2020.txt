@@ -1,0 +1,31 @@
+day 8 (22nd sep 2020):
+-----------------------
+
+good evening all 
+
+Topics:
+-------
+	Migrations:
+	(migrate:)
+		- python manage.py migrate
+			which will apply migrations to oour data base
+	(makemigrtions)
+		- python manage.py makemigrtions
+		
+		
+	Super user creation:
+		- python manage.py createsuperuser 
+		
+		
+	Object Relational Mapper(ORM)
+	-----------------------------
+		django.db.models.Model
+		
+		 class user(models.Model):
+			name = models.charfield(length)
+			email = models.emailfield()
+	
+	Model creation:
+	--------------
+	 
+	
