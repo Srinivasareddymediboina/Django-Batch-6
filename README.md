@@ -73,3 +73,11 @@ ____
 
 
 ### Details [Workshop Students Data](https://docs.google.com/spreadsheets/d/149Ha-Y2H3WbVLmic4LqQ4h044MONjFwH/edit#gid=1228418153)
+
+____
+### Day 7 Objectives(21-09-2020)
+
+- External CSS
+- Boostrap
+- static file handling
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/0e103e86a0f41264a5186b5d51de1795cffe22e236fb10e063605a4bd7e968ca)
