@@ -1,0 +1,29 @@
+<html>
+<head>
+    {% load static %}
+    <title>Multiplication table</title>
+    <link rel="stylesheet" href="{% static 'css/mystyle.css' %}">
+</head>
+<body>
+<div class="page">
+    <h1 id="caption">Multiplication table</h1>
+<table>
+    {% for i in list %}
+    <tr>
+        <td>{{ forloop.counter }}</td>
+        <td>* {{ num }} =</td>
+        <td class="test"> {{i}} </td>
+    </tr>
+    {% endfor %}
+</table>
+</div>
+</body>
+</html>
+
+
+
+
+
+<!--{% for k,v in data.items %}-->
+<!--<p>{{ k }}*{{num}} = {{v}}</p>-->
+<!--{% endfor %}-->

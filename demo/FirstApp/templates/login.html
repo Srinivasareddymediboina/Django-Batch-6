@@ -1,0 +1,26 @@
+<html>
+<head>
+    {% load static %}
+    <title>Login</title>
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/my_script.js' %}"></script>
+</head>
+<body>
+<div class="jumbotron">
+    <div class="card">
+        <div class="card-header"><h1>LogIn Page</h1></div>
+        <div class="card-body">
+            <form class="form" action="" method="post">
+                {% csrf_token %}
+            <input type="text" name="name" placeholder="User Name"><br>
+            <input type="password" name="password" placeholder="Password"><br>
+        </div>
+        <div class="card-footer">
+            <input type="submit" value="LogIn" onclick="myfunction()">
+        </div>
+</form>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+table{
+width:150px;
+border:2px double;
+color: #6d0c0c;
+margin-left: 45%;
+
+}
+
+#caption{
+color:#6d0c0c;
+text-align: center;
+}
+.page{
+background-color: #a6e3ea;
+width: 500px
+}
+
+td.test{
+border: 1px solid;
+}
