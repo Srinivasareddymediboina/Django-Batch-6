@@ -93,3 +93,10 @@ ____
 - Model creation
 - Super user Creation
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5da6a56f6b951f400aba049a68a28b74426ac09f9d4b5bda121cc7bc4dc77cfa)
+
+
+### Day 9 Objectives(22-09-2020)
+
+- Model quering using django
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5e493935d65ae69f1251a2432e7c92bef1ddeb0afd296038ff19cd412e6bdd92)
