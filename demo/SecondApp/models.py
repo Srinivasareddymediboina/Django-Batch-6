@@ -7,4 +7,4 @@ class Register(models.Model):
     phone = models.CharField(null=True, blank=True, max_length=10)
 
     def __str__(self):
-        return self.name + str(self.age)
+        return self.name

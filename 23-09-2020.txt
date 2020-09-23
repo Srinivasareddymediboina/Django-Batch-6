@@ -1,0 +1,33 @@
+good evening all..
+
+Model queries using django shell:
+	To open interactive shell:
+		python manage.py shell
+	Creating objects:
+		by using save()
+		using Create()
+		
+	Retrieving:
+	for retrieving all the data
+		model_name.objects.all()
+		filter()
+		get()
+		Exclude()
+		
+	Update
+	Delete
+	Field lookups:
+		Exact
+		iExact
+		contains
+		icontains
+	lte,gte,lt,gt:
+
+sql :
+	-select * from table_name
+	
+	
+sireesha.r@apssdc.in
+srinivasareddy.m@apssdc.in
+gireesha.d@apssdc.in
+anil.p@apssdc.in
