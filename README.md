@@ -97,6 +97,6 @@ ____
 
 ### Day 9 Objectives(22-09-2020)
 
-- Model quering using django
+- Model queries using django shell
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5e493935d65ae69f1251a2432e7c92bef1ddeb0afd296038ff19cd412e6bdd92)
