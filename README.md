@@ -95,8 +95,15 @@ ____
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5da6a56f6b951f400aba049a68a28b74426ac09f9d4b5bda121cc7bc4dc77cfa)
 
 ____
-### Day 9 Objectives(22-09-2020)
+### Day 9 Objectives(23-09-2020)
 
 - Model queries using django shell
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5e493935d65ae69f1251a2432e7c92bef1ddeb0afd296038ff19cd412e6bdd92)
+
+____
+### Day 10 Objectives(24-09-2020)
+
+- CRUD Operations
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/c39a558a8c47e511167eef0eb4043de0479142adda9755c3a2793b634d82c50e)
