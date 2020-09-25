@@ -1,0 +1,19 @@
+{% extends 'student/base.html' %}
+	{% block title %}Update details{% endblock%}
+
+	{% block content %}
+<form method='POST' align = 'center'>
+	{% csrf_token %}
+	First Name : <input type="text" name="fname" value="{{ data.First_name }}"><br>
+	Last Name : <input type="text" name="lname" value="{{ data.Last_name }}"><br>
+	Roll Number : <input type="text" name="roll" value="{{ data.Roll_No }}"><br>
+	Branch :<input type="text" name="branch" value="{{ data.Branch }}"><br>
+	Email : <input type="email" name="mail" value="{{ data.Email }}"><br>
+	Phone Number : <input type="text" name="phone" value="{{ data.Phone }}"><br>
+
+	<input type="submit" value="Update">
+</form>
+{% endblock %}
+
+
+

@@ -1,0 +1,32 @@
+{% extends 'student/base.html' %}
+{% block title %}Students data{% endblock %}
+{% block content %}
+
+<table border=1 class="table-striped">
+	<tr>
+		<th>Id</th>
+		<th>First Name</th>
+		<th>Last Name</th>
+		<th>Roll Number</th>
+		<th>Branch</th>
+		<th>Email</th>
+		<th>Phone Number</th>
+		<th>Operations</th>
+	</tr>
+	{% for i in data %}
+	<tr>
+		<td>{{i.id}}</td>
+		<td>{{i.First_name}}</td>
+		<td>{{i.Last_name}}</td>
+		<td>{{i.Roll_No}}</td>
+		<td>{{i.Branch}}</td>
+		<td>{{i.Email}}</td>
+		<td>{{i.Phone}}</td>
+
+		<td><a class="btn btn-info" href="{% url 'student_update' i.id %}">Edit</a>
+		<a class="btn btn-warning" href="{% url 'student_delete' i.id %}">Delete</a></td>
+
+	</tr>
+	{% endfor %}
+</table>
+{% endblock %}
