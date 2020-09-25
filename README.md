@@ -107,3 +107,12 @@ ____
 - CRUD Operations
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/c39a558a8c47e511167eef0eb4043de0479142adda9755c3a2793b634d82c50e)
+
+______
+### Day 11 Objectives(25-09-2020)
+
+- CRUD Operations(continues)
+- nav bar 
+- DTL Extedns and include
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/27ce49c5ece678d2058533c01fd298233213d664e100b7dc7422b2d7b334d267)
