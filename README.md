@@ -3,6 +3,27 @@ ____
 
 [Click Here for syllabus](https://drive.google.com/file/d/1OnBUWHxKIa0ixTU8uKrWTGCE7HB3PbGl/view)
 
+___________
+### New meeting Id from 28th sep 2020
+
+no changes in session time
+
+Django Afternoon Batch's Meeting
+
+Please join my meeting from your computer, tablet or smartphone.
+https://www.gotomeet.me/sushma271999
+
+You can also dial in using your phone.
+United States: +1 (224) 501-3412
+
+Access Code: 314-263-757
+
+
+New to GoToMeeting? Get the app now and be ready when your first meeting starts: https://global.gotomeeting.com/install/314263757
+_______________
+
+
+
 #### Instructions for attendance
 Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
 
