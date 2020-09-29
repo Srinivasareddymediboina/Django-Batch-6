@@ -1,0 +1,24 @@
+{% extends 'accounts/base.html'%}
+
+{% block content %}
+
+<div class="container col-md-4 bg-primary">
+	<h1 class="text-center text-danger">Loginform</h1>
+	<form action="#" method="POST">
+		{% csrf_token %}
+		<b>
+			<div class="form-group">
+				<label for="uname">UserName:</label>
+				<input type="text" class="form-control" placeholder="Enter username" id="uname" name="username" required="true">
+			</div>
+			<div class="form-group">
+				<label for="pwd">Password:</label>
+				<input type="password" class="form-control" placeholder="Enter *****" id="pwd" name="password" required="true">
+			</div>
+		</b>
+		<div class="text-center">
+			<input type="submit" value="Login" class="btn btn-outline-warning btn-lg mb-3">
+		</div>
+	</form>
+</div>
+{% endblock %}

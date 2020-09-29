@@ -1,0 +1,38 @@
+<nav class="navbar navbar-expand-md bg-dark navbar-dark">
+  <a class="navbar-brand" href="#">MyProject</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="{% url 'home' %}">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About</a>
+      </li>    
+    </ul>
+    <ul class="navbar-nav ml-auto">
+     <li class="nav-item dropdown">
+      {% if user.is_authenticated %}
+           <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+             <span style="color: red">{{request.user}}</span>
+           </a>
+           <div class="dropdown-menu">
+             <a class="dropdown-item" href="#">Profile</a>
+             <a class="dropdown-item" href="{% url 'changepassword'%}">changepassword</a>
+             <a class="dropdown-item" href="{% url 'signout' %}">Logout</a>
+           </div>
+         </li>
+         {% else %}
+      <li class="nav-item">
+        <a class="nav-link" href="{% url 'register' %}">Register</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="{% url 'signin' %}">Login</a>
+      </li>
+      {% endif %}    
+    </ul>
+  </div>  
+</nav>
+<br>

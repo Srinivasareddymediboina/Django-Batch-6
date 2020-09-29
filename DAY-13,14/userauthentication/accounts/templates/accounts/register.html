@@ -1,0 +1,46 @@
+{% extends 'accounts/base.html'%}
+
+{% block content %}
+
+<div class="container col-md-4 bg-info">
+	<h1 class="text-center text-danger">RegistrationForm</h1>
+	<form action="#" method="POST" enctype="multipart/form-data">
+		{% csrf_token %}
+		<b><div class="form-row">
+			<div class="form-group col-md-6">
+				<label for="fname">First_name:</label>
+				<input type="text" class="form-control" placeholder="Enter fname" id="fname" name="first_name" required="true">
+			</div>
+			<div class="form-group col-md-6">
+				<label for="lname">Last_name:</label>
+				<input type="text" class="form-control" placeholder="Enter fname" id="lname" name="last_name" required="true">
+			</div>
+		</div>
+		<div class="form-row">
+			<div class="form-group col-md-6">
+				<label for="uname">UserName:</label>
+				<input type="text" class="form-control" placeholder="Enter fname" id="fname" name="username" required="true">
+			</div>
+			<div class="form-group col-md-6">
+				<label for="email">Email:</label>
+				<input type="email" class="form-control" placeholder="Enter Email" id="fname" name="emailid" required="true">
+			</div>
+		</div>
+		<div class="form-row">
+			<div class="form-group col-md-6">
+				<label for="img">Image:</label>
+				<input type="file" class="form-control" placeholder="upload image" id="img" name="image" required="true">
+			</div>
+
+			<div class="form-group col-md-6">
+				<label for="pwd">Password:</label>
+				<input type="password" class="form-control" placeholder="Enter *****" id="pwd" name="password" required="true">
+			</div>
+		</div></b>
+
+		<div class="text-center">
+			<input type="submit" value="Register" class="btn btn-outline-danger btn-lg mb-3">		
+		</div>
+	</form>
+</div>
+{% endblock %}

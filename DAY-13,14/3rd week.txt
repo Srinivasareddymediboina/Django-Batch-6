@@ -1,0 +1,43 @@
+GoodEvening To All
+-------------------
+
+This Week Agenda
+================
+
+1.User Registration
+
+existing table
+auth_user
+.fname
+.lname
+.email
+.username
+.image
+.password
+
+custom table
+Profile
+
+dob
+gender
+mobile
+zipcode
+mobileno
+address
+
+
+2.User Authentication
+
+3.File Uploading
+MEDIA_ROOT=os.path.join(BASE_DIR,'accounts/static/images')
+MEDIA_URL='/images/'
+4. ChangePassword
+
+-oldpassword
+-newpassword
+-conrimpassword
+
+4.User Profile Creation.
+5.Database Connectivity and DatabaseMigrations with MYSQL
+6.Mail Sending
+  
