@@ -153,3 +153,11 @@ _________
 - frontend design
 
 ### Video Link -(No VideoLink)
+
+### Day 14 Objectives(29-09-2020)
+
+- User Authentication
+- ChangePassword
+- frontend design
+
+### Video Link -[Click Here]()
