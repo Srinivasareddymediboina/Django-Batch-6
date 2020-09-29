@@ -145,3 +145,11 @@ _________
 - Flash messages
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/04fdf2e15bdebad60f98f62fb2cc3e295ca0244cd230fd865eaa430f63162dfc)
+
+### Day 13 Objectives(28-09-2020)
+
+- UserRegistration
+- FileUploading
+- frontend design
+
+### Video Link [Click Here]()
