@@ -163,3 +163,12 @@ __________
 
 ### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/c382126d8c60f7b17145d2d75f59dde6b1324c1427b53abd24dcaf7dfa0a433f)
 ___________
+
+### Day 15 Objectives(30-09-2020)
+
+- UserProfileCreation
+- Profile Updation
+- frontend design
+
+### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/a151aed2b49e271f8010b865559cd506a09da6929def34516fe35bf058b5c480)
+___________
