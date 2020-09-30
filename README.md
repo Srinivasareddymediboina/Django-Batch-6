@@ -141,7 +141,7 @@ ______
 _________
 ### Day 12 Objectives(26-09-2020)
 
-- Forms
+- Form validations
 - Flash messages
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/04fdf2e15bdebad60f98f62fb2cc3e295ca0244cd230fd865eaa430f63162dfc)
