@@ -1,0 +1,6 @@
+{% extends 'accounts/base.html'%}
+{% block content %}
+
+
+
+{% endblock %}

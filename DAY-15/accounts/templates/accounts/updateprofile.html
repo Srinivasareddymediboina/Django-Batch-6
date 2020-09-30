@@ -1,0 +1,19 @@
+{% extends 'accounts/base.html'%}
+{% block content %}
+
+<div class="container col-md-4">
+	<h1 class="text-center bg-primary">UpdateProfile</h1>
+	
+	<form action="#" method="POST" enctype="multipart/form-data">
+		{% csrf_token %}
+		{{uform.as_p}}
+		{{pform.as_p}}
+		<div class="text-center">
+			<input type="submit" value="Save" class="btn btn-outline-info btn-lg mb-3">
+		</div>
+	</form>
+</div>
+
+
+
+{% endblock %}
