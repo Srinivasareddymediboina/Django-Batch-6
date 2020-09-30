@@ -145,7 +145,7 @@ _________
 - Flash messages
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/04fdf2e15bdebad60f98f62fb2cc3e295ca0244cd230fd865eaa430f63162dfc)
-
+_________
 ### Day 13 Objectives(28-09-2020)
 
 - UserRegistration
@@ -154,6 +154,7 @@ _________
 
 ### Video Link -(No VideoLink)
 
+__________
 ### Day 14 Objectives(29-09-2020)
 
 - User Authentication
@@ -161,3 +162,4 @@ _________
 - frontend design
 
 ### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/c382126d8c60f7b17145d2d75f59dde6b1324c1427b53abd24dcaf7dfa0a433f)
+___________
