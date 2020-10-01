@@ -172,3 +172,12 @@ ___________
 
 ### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/a151aed2b49e271f8010b865559cd506a09da6929def34516fe35bf058b5c480)
 ___________
+
+### Day 16 Objectives(01-10-2020)
+
+- Mysql Connection
+-Migrations&Migrate
+- frontend design
+
+### Video Link -[Click Here]()
+___________
