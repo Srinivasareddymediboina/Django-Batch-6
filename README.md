@@ -188,5 +188,5 @@ ___________
 -UserRegisraion
 - frontend design
 
-### Video Link -[Click Here]()
+### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/683b7cd19514760dc75d577e27b38d460d126d7934333fdab2eb238d8c2ab637)
 ___________
