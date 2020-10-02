@@ -179,5 +179,5 @@ ___________
 -Migrations&Migrate
 - frontend design
 
-### Video Link -[Click Here]()
+### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/8d226b62985709a31546038b898de711257d0b77728f8af96fc5b89883e38fe7)
 ___________
