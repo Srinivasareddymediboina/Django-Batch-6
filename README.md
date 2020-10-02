@@ -182,7 +182,7 @@ ___________
 ### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/8d226b62985709a31546038b898de711257d0b77728f8af96fc5b89883e38fe7)
 ___________
 
-### Day 17 Objectives(01-10-2020)
+### Day 17 Objectives(02-10-2020)
 
 - MailSending
 -UserRegisraion
