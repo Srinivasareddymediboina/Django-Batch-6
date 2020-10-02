@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+  <div class="container card card-body mt-5" style="background-color: lightblue">
+    <h1 class="text-center text-primary">Home</h1>
+    <div class="offset-3">
+      <a href="{% url 'register'%}" class="btn btn-outline-success btn-lg">Register</a>
+      <a href="{% url 'signup' %}" class="btn btn-outline-danger btn-lg">Signup</a>
+    </div>
+  </div>
+</body>
+</html>
