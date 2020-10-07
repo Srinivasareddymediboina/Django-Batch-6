@@ -190,3 +190,8 @@ ___________
 
 ### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/683b7cd19514760dc75d577e27b38d460d126d7934333fdab2eb238d8c2ab637)
 ___________
+
+
+### Day 18 Objectives(03-10-2020)
+
+### Video Link -[Click Here](https://transcripts.gotomeeting.com/#/s/fddc98d8bf15dd7c44e6d86a7f899fd3f149b6d6b92ffbea57082470f3207292)
